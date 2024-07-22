@@ -16,7 +16,7 @@
 
 - Настроила под себя дашборды в Jira, чтобы ни один баг не остался незамеченным к фиксу;
 - Провела личный опрос среди сотрудников и предложила новую фичу, которая была реализована;
-- Отвечаю за качественную работу и годные мемы в команде.
+- Гарантирована качественная работа и годные мемы в команде.
 <div>
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmd4bnVzMW9pbDVhbzU1cDhvb2kxdjR5bjJxOG5kNGo0N2xqZjNsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5bGYUuT3VEVLa/giphy.webp" width="400" height="200"/>&nbsp
  </div>
