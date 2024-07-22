@@ -94,6 +94,7 @@
 <br>
 
 ## 🎒 Образование
+*На стадии разработки*
 [<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
 [<img src="/recommendation_qa.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation_qa.png)
 
