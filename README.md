@@ -1,7 +1,7 @@
 ## Welcome to the club 💅
 
-<h2 align="center">Меня зовут Лиза и я QA Engineer 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ0Y3djdm9kY2kwNzljZ3BoZDNueWZlbXZ4NGNtb205ZjhvYXlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3rGigrYfx8aKqI/giphy.webp" width="30"></h2>
+<h1 align="center">Меня зовут Лиза и я QA Engineer 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZ0Y3djdm9kY2kwNzljZ3BoZDNueWZlbXZ4NGNtb205ZjhvYXlxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J3rGigrYfx8aKqI/giphy.webp" width="30"></h1>
 <p align="center"><a href="https://www.youtube.com/watch?v=_ovdm2yX4MA"><img src="./images/main2.webp" width="500" height="300"/></a></p>
 <h3 align="center">(жмякни картинку для настроения) </h3>
 
